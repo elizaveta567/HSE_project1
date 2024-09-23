@@ -15,3 +15,8 @@
 
 Пункт b:
 ![image](https://github.com/user-attachments/assets/70726c9b-a30f-47f3-9c31-d4945717825a)
+
+Задание 11:
+![image](https://github.com/user-attachments/assets/4df08a68-9114-4038-8837-59e5024a286a)
+
+![image](https://github.com/user-attachments/assets/250556b0-fc30-45be-b1ad-d19054e6c998)
