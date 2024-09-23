@@ -1,4 +1,5 @@
 a = int(input("Введи первое число: "))
 b = int(input("Введи второе число: "))
 
-print(a,b)
+n = a+b
+print(n)
